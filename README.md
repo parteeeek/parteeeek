@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @parteeeek
+- 👀 I’m interested in Data 
+- 🌱 I’m currently learning data science
+-
